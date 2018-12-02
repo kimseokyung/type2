@@ -18,3 +18,4 @@ $(document).ready(funtion(){
         consol.log("test");
     });
 });
+```
